@@ -14,6 +14,7 @@ export default class Header extends React.Component {
                     <div className="main-header">
                         <div className="container">
                             <h1 className="site-title">UkrWorker</h1>
+                            <h2 className="site-title">UkrWorker</h2>
                         </div>
                     </div>
                 <Nav/>
